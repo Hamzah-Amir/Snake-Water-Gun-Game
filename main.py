@@ -5,7 +5,7 @@
 import random
 
 # Display game title
-head = "Snake Water Gun Game"
+head = "Snake Water Gun Game."
 print(head.title())
 
 # Get number of rounds from user
